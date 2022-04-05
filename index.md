@@ -28,8 +28,3 @@ B.Eng. in Computer Science and Technology, Xidian University, Sept. 2016 - Jun. 
   Fang Kong, **Qizhi Li**, Shuai Li.
 
   Computer Science. 2020.
-
-
-
-
-
