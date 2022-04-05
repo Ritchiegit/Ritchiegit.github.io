@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student in John Hopcroft Center, Shanghai Jiao Tong University under the supervision of Prof. Shuai Li. Before joining SJTU, I obtained my bachelor degree in Computer Science and Technology from Xidian University in 2020.
+I am a second-year master student in [John Hopcroft Center](https://jhc.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Prof. Shuai Li](https://jhc.sjtu.edu.cn/). Before joining SJTU, I obtained my bachelor degree in Computer Science and Technology from [Xidian University](https://en.xidian.edu.cn/) in 2020.
 
 Office: Room 1119, No.1 Software Engineering Building, Dongchuan Road 800, Shanghai, China
 
