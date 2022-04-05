@@ -13,7 +13,7 @@ I am a second-year master student in [John Hopcroft Center](https://jhc.sjtu.edu
 Office: Room 1119, No.1 Software Engineering Building, Dongchuan Road 800, Shanghai, China
 
 # Education
-Master. Student in Computer Science, Shanghai Jiao Tong University, Sept. 2020 - present
+MA.Eng. Student in Computer Science, Shanghai Jiao Tong University, Sept. 2020 - present
 
 B.Eng. in Computer Science and Technology, Xidian University, Sept. 2016 - Jun. 2020
 
