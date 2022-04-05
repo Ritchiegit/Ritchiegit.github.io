@@ -27,13 +27,13 @@ B.Eng. in Computer Science and Technology, Xidian University, Sept. 2016 - Jun. 
 
 - Online Influence Maximization under Linear Threshold Model [[link](https://proceedings.neurips.cc/paper/2020/hash/0d352b4d3a317e3eae221199fdb49651-Abstract.html)] [[arxiv](https://arxiv.org/abs/2011.06378)]
 
-  Shuai Li, Fang Kong, Kejie Tang, **Qizhi Li**, Wei Chen.
+  Shuai Li, Fang Kong, Kejie Tang, **Qizhi Li**, Wei Chen*
 
   The 34th Conference on Neural Information Processing Systems (NeurIPS). 2020.
 
 - A Survey on Online Influence Maximization (in Chinese) [[link](http://www.jsjkx.com/CN/10.11896/jsjkx.200200071)]
 
-  Fang Kong, **Qizhi Li**, Shuai Li.
+  Fang Kong, **Qizhi Li**, Shuai Li*
 
   Computer Science. 2020.
 
