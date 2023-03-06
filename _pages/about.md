@@ -19,6 +19,21 @@ B.Eng. in Computer Science and Technology, Xidian University, Sept. 2016 - Jun. 
 
 # Publications
 
+
+- Clustering of conversational bandits with posterior sampling for user preference learning and elicitation [[link](https://link.springer.com/article/10.1007/s11257-023-09358-x)]
+
+  **Qizhi Li**, Canzhe Zhao, Tong Yu, Junda Wu & Shuai L∗
+
+  User Modeling and User-Adapted Interaction, 2023
+
+
+- bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks [[link](https://link.springer.com/article/10.1007/s11257-023-09358-x)]
+
+  **Qizhi Li**, Xubin Zheng, Jize Xie, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng*, Lixin Cheng*
+
+  Bioinformatics, 2023
+
+
 - Sim-to-Real Interactive Recommendation via Off-Dynamics Reinforcement Learning [[link](https://offline-rl-neurips.github.io/2021/pdf/50.pdf)]
 
   Junda Wu, Zhihui Xie, Tong Yu, **Qizhi Li**, Shuai Li∗
