@@ -27,7 +27,7 @@ B.Eng. in Computer Science and Technology, Xidian University, Sept. 2016 - Jun. 
   User Modeling and User-Adapted Interaction, 2023
 
 
-- bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks [[link](https://link.springer.com/article/10.1007/s11257-023-09358-x)]
+- bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks [[link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad109/7066914?login=false)]
 
   **Qizhi Li**, Xubin Zheng, Jize Xie, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, Lixin Cheng\*
 
